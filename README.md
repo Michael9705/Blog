@@ -3,7 +3,7 @@ The application is developed in **JavaScript** with **Express, EJS and Mongoose 
 MongoDB is used to keep track of any data chanegs. The database is later to be serverd on cloud via **MongoDB Atlas** with AWS.
 
 # Framework, Libraries and Database used:
-Express, EJS, Mongoose, MongoDB Atlas
+Bootstrap, Express, EJS, Mongoose, MongoDB Atlas
 
 # Deployment:
 The app is dployed on Heroku: https://agile-eyrie-02048.herokuapp.com/
